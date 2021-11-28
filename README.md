@@ -2,12 +2,12 @@
 
 ### Hello, I am Nuno Miguens 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-nunomiguens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com)"
+[![Linkedin Badge](https://img.shields.io/badge/-nunomiguens-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nunomiguens)](www.linkedin.com/in/nunomiguens)
 [![Gmail Badge](https://img.shields.io/badge/-nunomiguens@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nunomiguens@gmail.com)](mailto:nunomiguens@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://nunoportfolio.tk)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!](https://www.linkedin.com/)
+- 📬 How to reach me: [Let's get in touch!](www.linkedin.com/in/nunomiguens)
 
 
 ### Some Languages and Tools that I’ve been working with recently:
