@@ -20,9 +20,10 @@
 <img align="left" alt="Redux" width="50px" src="https://user-images.githubusercontent.com/27971147/143613462-0a45b30f-3458-4073-8635-309ecf11f7a9.png" />
 <img align="left" alt="Next.js" width="50px" src="https://user-images.githubusercontent.com/27971147/143614583-8a6dd274-9610-4430-96bf-e50fca6a836a.png" />
 <img align="left" alt="MongoDB" width="50px" src="https://user-images.githubusercontent.com/27971147/143613797-497c7a23-2377-4aea-b72f-89a915a2e909.png" />
-<img align="center" alt="Java" width="45px" src="https://user-images.githubusercontent.com/27971147/213170502-3b0806d8-f6a5-4dee-ab00-683abc49cbda.png" />
-<img align="left" alt="Springboot" width="50px" src="https://user-images.githubusercontent.com/27971147/213171173-6eff9901-1ec3-4bf6-9749-3bb931f49d16.png" />
 <img align="left" alt="SQL" width="50px" src="https://user-images.githubusercontent.com/27971147/213171184-0f0fe3bf-328a-47df-87ae-9f63c4825c0c.png" />
+<img align="left" alt="Java" width="50px" src="https://user-images.githubusercontent.com/27971147/213170502-3b0806d8-f6a5-4dee-ab00-683abc49cbda.png" />
+<img align="left" alt="Springboot" width="50px" src="https://user-images.githubusercontent.com/27971147/213171173-6eff9901-1ec3-4bf6-9749-3bb931f49d16.png" />
+
 
 
 
